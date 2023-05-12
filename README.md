@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassenelkamel&label=Profile%20views&color=0e75b6&style=flat" alt="ghassenelkamel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassenelkamel" alt="ghassenelkamel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassenelkamel" alt="ghassenelkamel" /></a> </p>
 
 - 🌱 I’m currently learning **React Native and AWS**
 
