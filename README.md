@@ -1,4 +1,4 @@
-![Ghassen EL KAMEL, software developer, artist](https://miro.medium.com/v2/resize:fit:720/0*IjwqslkWZDHTMK9Y.gif)
+![Ghassen EL KAMEL, software developer, artist](https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif)
 
 <h1 align="center">Hi 👋, I'm Ghassen El Kamel</h1>
 <h3 align="center">A passionate Mobile FullStack Developer from Tunisia</h3>
