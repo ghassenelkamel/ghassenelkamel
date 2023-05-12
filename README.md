@@ -7,20 +7,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassenelkamel" alt="ghassenelkamel" /></a>                                             </p>
 
+<h2>
 - 🌱 I’m currently learning **React Native and AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GhassenElKamel](https://github.com/GhassenElKamel)
 
-- 📝 I regularly write articles on [ghassenelkamel.gq](ghassenelkamel.gq)
+- 📝 Visit My Portfolio [ghassenelkamel.gq](ghassenelkamel.gq)
 
 - 💬 Ask me about **Linux,Javascript,Java,C,Robotics,Iot & Embedded Systems**
 
 - 📫 How to reach me **Ghassenelkamel@live.fr**
 
-- 📄 Know about my experiences (CV) [https://drive.google.com/file/d/1aVn_cAmjDxDD2o5KnUCpCeZVEWZFoRP0/view?usp=share_link](https://drive.google.com/file/d/1aVn_cAmjDxDD2o5KnUCpCeZVEWZFoRP0/view?usp=share_link)
-
+- 📄 Know about my experiences  [French CV](https://drive.google.com/file/d/1aVn_cAmjDxDD2o5KnUCpCeZVEWZFoRP0/view?usp=share_link) 
+  
 - ⚡ Fun Programming fact **There are around 700 separate programming languages**
-
+</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
