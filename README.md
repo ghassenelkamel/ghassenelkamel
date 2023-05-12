@@ -7,22 +7,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassenelkamel" alt="ghassenelkamel" /></a>                                             </p>
 
-<h3 style="color: blue;">
-🌱 I’m currently learning <span style="color: green;">React Native</span> and <span style="color: green;">AWS</span>
+<h3>
+  
+- 🌱 I’m currently learning **React Native and AWS**
 
-👨‍💻 All of my projects are available at <a href="https://github.com/GhassenElKamel" style="color: purple;">https://github.com/GhassenElKamel</a>
+- 👨‍💻 All of my projects are available at [https://github.com/GhassenElKamel](https://github.com/GhassenElKamel)
 
-📝 Visit My Portfolio <a href="http://ghassenelkamel.gq" style="color: purple;">ghassenelkamel.gq</a>
+- 📝 Visit My Portfolio [ghassenelkamel.gq](ghassenelkamel.gq)
 
-💬 Ask me about <span style="color: green;">Linux</span>, <span style="color: green;">Javascript</span>, <span style="color: green;">Java</span>, <span style="color: green;">C</span>, <span style="color: green;">Robotics</span>, <span style="color: green;">IoT</span>, and <span style="color: green;">Embedded Systems</span>
+- 💬 Ask me about **Linux,Javascript,Java,C,Robotics,Iot & Embedded Systems**
 
-📫 How to reach me <span style="color: green;">Ghassenelkamel@live.fr</span>
+- 📫 How to reach me **Ghassenelkamel@live.fr**
 
-📄 Know about my experiences <a href="https://drive.google.com/file/d/1aVn_cAmjDxDD2o5KnUCpCeZVEWZFoRP0/view?usp=share_link" style="color: purple;">French CV</a>
-
-⚡ Fun Programming fact <span style="color: green;">There are around 700 separate programming languages</span>
-
-</h3>
+- 📄 Know about my experiences  [French CV](https://drive.google.com/file/d/1aVn_cAmjDxDD2o5KnUCpCeZVEWZFoRP0/view?usp=share_link) 
+  
+- ⚡ Fun Programming fact **There are around 700 separate programming languages**
+</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
