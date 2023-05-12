@@ -1,7 +1,6 @@
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" alt="Ghassen EL KAMEL, software developer, artist" width="400" height="300">
-</div>
-
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Ghassen El Kamel</h1>
