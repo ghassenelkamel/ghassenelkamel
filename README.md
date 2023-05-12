@@ -1,28 +1,28 @@
 ![Ghassen EL KAMEL, software developer, artist](https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif)
 
 <h1 align="center">Hi 👋, I'm Ghassen El Kamel</h1>
-<h3 align="center">A passionate Mobile FullStack Developer from Tunisia</h3>
+<h2 align="center">A passionate Mobile FullStack Developer from Tunisia</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassenelkamel&label=Profile%20views&color=0e75b6&style=flat" alt="ghassenelkamel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassenelkamel" alt="ghassenelkamel" /></a>                                             </p>
 
-<h2>
-  
-- 🌱 I’m currently learning **React Native and AWS**
+<h3 style="color: blue;">
+🌱 I’m currently learning <span style="color: green;">React Native</span> and <span style="color: green;">AWS</span>
 
-- 👨‍💻 All of my projects are available at [https://github.com/GhassenElKamel](https://github.com/GhassenElKamel)
+👨‍💻 All of my projects are available at <a href="https://github.com/GhassenElKamel" style="color: purple;">https://github.com/GhassenElKamel</a>
 
-- 📝 Visit My Portfolio [ghassenelkamel.gq](ghassenelkamel.gq)
+📝 Visit My Portfolio <a href="http://ghassenelkamel.gq" style="color: purple;">ghassenelkamel.gq</a>
 
-- 💬 Ask me about **Linux,Javascript,Java,C,Robotics,Iot & Embedded Systems**
+💬 Ask me about <span style="color: green;">Linux</span>, <span style="color: green;">Javascript</span>, <span style="color: green;">Java</span>, <span style="color: green;">C</span>, <span style="color: green;">Robotics</span>, <span style="color: green;">IoT</span>, and <span style="color: green;">Embedded Systems</span>
 
-- 📫 How to reach me **Ghassenelkamel@live.fr**
+📫 How to reach me <span style="color: green;">Ghassenelkamel@live.fr</span>
 
-- 📄 Know about my experiences  [French CV](https://drive.google.com/file/d/1aVn_cAmjDxDD2o5KnUCpCeZVEWZFoRP0/view?usp=share_link) 
-  
-- ⚡ Fun Programming fact **There are around 700 separate programming languages**
-</h2>
+📄 Know about my experiences <a href="https://drive.google.com/file/d/1aVn_cAmjDxDD2o5KnUCpCeZVEWZFoRP0/view?usp=share_link" style="color: purple;">French CV</a>
+
+⚡ Fun Programming fact <span style="color: green;">There are around 700 separate programming languages</span>
+
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
