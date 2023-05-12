@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghassenelkamel&label=Profile%20views&color=0e75b6&style=flat" alt="ghassenelkamel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassenelkamel" alt="ghassenelkamel" /></a>                                             </p>
-
 <h3>
   
 - 🌱 I’m currently learning **React Native and AWS**
@@ -38,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghassenelkamel&show_icons=true&locale=en" alt="ghassenelkamel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghassenelkamel&" alt="ghassenelkamel" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghassenelkamel" alt="ghassenelkamel" /></a>                                             </p>
