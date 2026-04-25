@@ -41,30 +41,6 @@ My current focus: **architecture, backend reliability, and long-term scalability
 
 ---
 
-### 🧰 Core Skills
-
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" title="Go" alt="Go" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/mqtt" title="MQTT" alt="MQTT" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/wireguard" title="WireGuard" alt="WireGuard" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/openvpn" title="OpenVPN" alt="OpenVPN" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/svelte" title="Svelte" alt="Svelte" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="Grafana" alt="Grafana" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/prometheus" title="Prometheus" alt="Prometheus" width="45" height="45"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" title="Arduino" alt="Arduino" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" title="Raspberry Pi" alt="Raspberry Pi" width="45" height="45"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Yocto_Project_logo.svg/290px-Yocto_Project_logo.svg.png?20211202151953" title="Yocto" alt="Yocto" width="45" height="45"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" title="Nginx" alt="Nginx" width="45" height="45"/>&nbsp;
-</p>
-
----
-
 ### 🧩 What I’m Working On
 
 - Building **Go-based IoT backbones** and secure APIs for data exchange  
