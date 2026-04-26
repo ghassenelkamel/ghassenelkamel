@@ -31,17 +31,17 @@ I’m an **IoT and Software Systems Engineer** passionate about **building secur
 My work sits at the intersection of **embedded systems**, **backend development**, and **network security**, transforming real-world hardware into reliable digital ecosystems.
 
 I specialize in:
-- 🧠 **Designing IoT architectures** with secure data flow from device to cloud  
-- ⚙️ **Developing back-end services** in **Go** for automation, monitoring, and data processing  
-- 🔐 **Integrating secure communication layers** — VPN, MQTTS, and TLS  
-- 🚀 **Optimizing workflows and systems** to improve uptime and efficiency  
-- 🌍 **Building dashboards and tools** to empower clients with actionable insights  
+- **Designing IoT architectures** with secure data flow from device to cloud  
+- **Developing back-end services** in **Go** for automation, monitoring, and data processing  
+- **Integrating secure communication layers** — VPN, MQTTS, and TLS  
+- **Optimizing workflows and systems** to improve uptime and efficiency  
+- **Building dashboards and tools** to empower clients with actionable insights  
 
 My current focus: **architecture, backend reliability, and long-term scalability**.
 
 ---
 
-### 🧩 What I’m Working On
+### What I’m Working On
 
 - Building **Go-based IoT backbones** and secure APIs for data exchange  
 - Setting up **VPN and MQTTS infrastructures** for secure remote communication  
@@ -51,32 +51,33 @@ My current focus: **architecture, backend reliability, and long-term scalability
 
 ---
 
-### 🚀 Vision & Goals
+### Vision & Goals
 
-- 💼 Contribute to **open-source infrastructure and IoT projects**  
-- 🧭 Advance toward **architect-level expertise** in backend & platform engineering  
-- 🔍 Continue mastering **security, scalability, and maintainability** in large systems  
-- 🌐 Build platforms that connect devices, people, and insights seamlessly  
-
----
-
-### 🌍 Portfolio & Contact
-
-- 🔗 **Portfolio:** [ghassenelkamel.fr](https://ghassenelkamel.fr)  
-- 📫 **Email:** [Ghassenelkamel@live.fr](mailto:Ghassenelkamel@live.fr)  
-- 🧾 **CV (French):** [View Here](https://drive.google.com/file/d/1aVn_cAmjDxDD2o5KnUCpCeZVEWZFoRP0/view?usp=share_link)  
-- 💬 **Ask me about:** IoT, Go, Embedded Linux, System Design  
+- Contribute to **open-source infrastructure and IoT projects**  
+- Advance toward **architect-level expertise** in backend & platform engineering  
+- Continue mastering **security, scalability, and maintainability** in large systems  
+- Build platforms that connect devices, people, and insights seamlessly  
 
 ---
 
-### 🤝 Connect With Me
+### Portfolio & Contact
+
+- **Portfolio:** [ghassenelkamel.fr](https://ghassenelkamel.fr)  
+- **Email:** [Ghassenelkamel@live.fr](mailto:Ghassenelkamel@live.fr)  
+- **CV (French):** [View Here](https://drive.google.com/file/d/1aVn_cAmjDxDD2o5KnUCpCeZVEWZFoRP0/view?usp=share_link)  
+- **Ask me about:** IoT, Go, Embedded Linux, System Design  
+
+---
+
+### Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ghassenelkamel" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100000609568953" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
